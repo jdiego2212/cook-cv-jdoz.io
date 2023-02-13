@@ -276,6 +276,8 @@ a:hover {
 .right .img-3 {
     width: 80%;
     height: 500px;
+    border-radius: 100%;
+    box-shadow: 1px 1px 1px gray, 0px 1px 2px gray, 1px 1px 2px rgb (254 68 0)
 }
 
 /* fifth section */
