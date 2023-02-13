@@ -282,10 +282,10 @@ a:hover {
 }
 
 .right .img-3 {
-    width: 80%;
+    width: 65%;
     height: 500px;
     border-radius: 100%;
-    box-shadow: 1px 1px 1px gray, 0px 1px 2px gray, 1px 1px 2px rgb(254 68 0);
+    box-shadow: 1px 1px 2px gray, 1px 1px 2px rgb(254 68 0);
 }
 
 /* fifth section */
@@ -416,6 +416,10 @@ footer .made-with {
     .content-1 {
         min-height: 700px;
     }
+    
+    .right .img-3 {
+        width: 80%;
+    }
 }
 
 @media (max-width: 1200px) {
@@ -430,6 +434,10 @@ footer .made-with {
 
     .right .img-1 {
         height: 440px;
+    }
+    
+    .right .img-3 {
+        width: 95%;
     }
 }
 
